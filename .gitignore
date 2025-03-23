@@ -1,0 +1,40 @@
+# Derlenmiş Java dosyaları
+*.class
+
+# Paketlenmiş dosyalar
+*.jar
+*.war
+*.ear
+
+# Maven build çıktıları
+target/
+
+# Gradle build çıktıları
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Log dosyaları
+*.log
+
+# İşletim sistemi tarafından oluşturulan dosyalar
+.DS_Store
+Thumbs.db
