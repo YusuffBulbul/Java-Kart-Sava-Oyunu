@@ -1,0 +1,193 @@
+Bilgisayar icin olusturulan kartlar: [Firkateyn1, Ucak1, Firkateyn2, Ucak2, Obus1, Firkateyn3]
+Baslangic Dayaniklilik: [25, 20, 25, 20, 20, 25]
+Baslangic Seviye Puanlari: [8, 8, 8, 8, 8, 8]
+Kullanilma Listesi: [0, 0, 0, 0, 0, 0]
+Oyuncu icin olusturulan kartlar: [Obus1, Obus2, Ucak1, Ucak2, Firkateyn1, Firkateyn2]
+Baslangic Dayaniklilik: [20, 20, 20, 20, 25, 25]
+Baslangic Seviye Puanlari: [8, 8, 8, 8, 8, 8]
+Kullanilma Listesi: [0, 0, 0, 0, 0, 0]
+1. TUR
+Bilgisayarin sectigi kartlar: [Firkateyn3, Ucak1, Firkateyn2]
+Oyuncu seçilen kartlar: [Obus2, Ucak1, Ucak2]
+Oyuncu Karti: Obus2 -> Vurus Degeri: 15
+Rakip Karti: Firkateyn3
+Bilgisayar Karti: Firkateyn3 -> Vurus Degeri: 10
+Rakip Karti: Obus2
+Oyuncu karti: Obus2 dayanikliligi guncellendi: 10
+Bilgisayar karti: Firkateyn3 dayanikliligi güncellendi: 10
+Oyuncu Karti: Ucak1 -> Vurus Degeri: 10
+Rakip Karti: Ucak1
+Bilgisayar Karti: Ucak1 -> Vurus Degeri: 10
+Rakip Karti: Ucak1
+Oyuncu karti: Ucak1 dayanikliligi guncellendi: 10
+Bilgisayar karti: Ucak1 dayanikliligi güncellendi: 10
+Oyuncu Karti: Ucak2 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn2
+Bilgisayar Karti: Firkateyn2 -> Vurus Degeri: 15
+Rakip Karti: Ucak2
+Oyuncu karti: Ucak2 dayanikliligi guncellendi: 5
+Bilgisayar karti: Firkateyn2 dayanikliligi güncellendi: 15
+Oyuncu Kartlar Listesi: [Obus1, Obus2, Ucak1, Ucak2, Firkateyn1, Firkateyn2]
+Blgisayar Kartlar Listesi: [Firkateyn1, Ucak1, Firkateyn2, Ucak2, Obus1, Firkateyn3]
+Oyuncu Dayaniklilik Listesi: [20, 10, 10, 5, 25, 25]
+Bilgisayar Dayaniklilik Listesi: [25, 10, 15, 20, 20, 10]
+Oyuncu SeviyePuani Listesi: [8, 8, 8, 8, 8, 8]
+Bilgisayar SeviyePuani Listesi: [8, 8, 8, 8, 8, 8]
+Oyuncu Skoru: 0
+Bilgisayar Skoru: 0
+Yeni Kart Üretildi: Firkateyn3
+Mevcut Kartlar: [Obus1, Obus2, Ucak1, Ucak2, Firkateyn1, Firkateyn2, Firkateyn3]
+Yeni Kart Üretildi: Ucak3
+Mevcut Kartlar: [Firkateyn1, Ucak1, Firkateyn2, Ucak2, Obus1, Firkateyn3, Ucak3]
+Eklenen Kartli Liste Oyuncu: [Obus1, Obus2, Ucak1, Ucak2, Firkateyn1, Firkateyn2, Firkateyn3]
+Eklenen Kartli Liste Bilgisayar: [Firkateyn1, Ucak1, Firkateyn2, Ucak2, Obus1, Firkateyn3, Ucak3]
+2. TUR
+Bilgisayarin sectigi kartlar: [Obus1, Ucak2, Firkateyn1]
+Oyuncu seçilen kartlar: [Firkateyn1, Firkateyn2, Firkateyn3]
+Oyuncu Karti: Firkateyn1 -> Vurus Degeri: 10
+Rakip Karti: Obus1
+Bilgisayar Karti: Obus1 -> Vurus Degeri: 15
+Rakip Karti: Firkateyn1
+Oyuncu karti: Firkateyn1 dayanikliligi guncellendi: 10
+Bilgisayar karti: Obus1 dayanikliligi güncellendi: 10
+Oyuncu Karti: Firkateyn2 -> Vurus Degeri: 15
+Rakip Karti: Ucak2
+Bilgisayar Karti: Ucak2 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn2
+Oyuncu karti: Firkateyn2 dayanikliligi guncellendi: 15
+Bilgisayar karti: Ucak2 dayanikliligi güncellendi: 5
+Oyuncu Karti: Firkateyn3 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn1
+Bilgisayar Karti: Firkateyn1 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn3
+Oyuncu karti: Firkateyn3 dayanikliligi guncellendi: 15
+Bilgisayar karti: Firkateyn1 dayanikliligi güncellendi: 15
+Oyuncu Kartlar Listesi: [Obus1, Obus2, Ucak1, Ucak2, Firkateyn1, Firkateyn2, Firkateyn3]
+Blgisayar Kartlar Listesi: [Firkateyn1, Ucak1, Firkateyn2, Ucak2, Obus1, Firkateyn3, Ucak3]
+Oyuncu Dayaniklilik Listesi: [20, 10, 10, 5, 10, 15, 15]
+Bilgisayar Dayaniklilik Listesi: [15, 10, 15, 5, 10, 10, 20]
+Oyuncu SeviyePuani Listesi: [8, 8, 8, 8, 8, 8, 8]
+Bilgisayar SeviyePuani Listesi: [8, 8, 8, 8, 8, 8, 8]
+Oyuncu Skoru: 0
+Bilgisayar Skoru: 0
+Yeni Kart Üretildi: Firkateyn4
+Mevcut Kartlar: [Obus1, Obus2, Ucak1, Ucak2, Firkateyn1, Firkateyn2, Firkateyn3, Firkateyn4]
+Yeni Kart Üretildi: Firkateyn4
+Mevcut Kartlar: [Firkateyn1, Ucak1, Firkateyn2, Ucak2, Obus1, Firkateyn3, Ucak3, Firkateyn4]
+Eklenen Kartli Liste Oyuncu: [Obus1, Obus2, Ucak1, Ucak2, Firkateyn1, Firkateyn2, Firkateyn3, Firkateyn4]
+Eklenen Kartli Liste Bilgisayar: [Firkateyn1, Ucak1, Firkateyn2, Ucak2, Obus1, Firkateyn3, Ucak3, Firkateyn4]
+3. TUR
+Bilgisayarin sectigi kartlar: [Firkateyn4, Ucak3, Ucak1]
+Oyuncu seçilen kartlar: [Firkateyn1, Firkateyn4, Firkateyn3]
+Oyuncu Karti: Firkateyn1 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn4
+Bilgisayar Karti: Firkateyn4 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn1
+Oyuncu karti: Firkateyn1 dayanikliligi guncellendi: 0
+Bilgisayar karti: Firkateyn4 seviyesine 10 eklendi.
+Bilgisayar karti: Firkateyn4 dayanikliligi güncellendi: 15
+Bilgisayar skoruna 10 puan eklendi.
+Oyuncu Karti: Firkateyn4 -> Vurus Degeri: 15
+Rakip Karti: Ucak3
+Bilgisayar Karti: Ucak3 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn4
+Oyuncu karti: Firkateyn4 dayanikliligi guncellendi: 15
+Bilgisayar karti: Ucak3 dayanikliligi güncellendi: 5
+Oyuncu Karti: Firkateyn3 -> Vurus Degeri: 15
+Rakip Karti: Ucak1
+Bilgisayar Karti: Ucak1 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn3
+Oyuncu karti: Firkateyn3 dayanikliligi guncellendi: 5
+Bilgisayar karti: Ucak1 dayanikliligi güncellendi: 0
+Oyuncu karti: Firkateyn3 seviyesine 10 eklendi.
+Oyuncu skoruna 10 puan eklendi.
+Oyuncu Kartlar Listesi: [Obus1, Obus2, Ucak1, Ucak2, Firkateyn2, Firkateyn3, Firkateyn4]
+Blgisayar Kartlar Listesi: [Firkateyn1, Firkateyn2, Ucak2, Obus1, Firkateyn3, Ucak3, Firkateyn4]
+Oyuncu Dayaniklilik Listesi: [20, 10, 10, 5, 15, 5, 15]
+Bilgisayar Dayaniklilik Listesi: [15, 15, 5, 10, 10, 5, 15]
+Oyuncu SeviyePuani Listesi: [8, 8, 8, 8, 8, 18, 8]
+Bilgisayar SeviyePuani Listesi: [8, 8, 8, 8, 8, 8, 18]
+Oyuncu Skoru: 10
+Bilgisayar Skoru: 10
+Yeni Kart Üretildi: Firkateyn4
+Mevcut Kartlar: [Obus1, Obus2, Ucak1, Ucak2, Firkateyn2, Firkateyn3, Firkateyn4, Firkateyn4]
+Yeni Kart Üretildi: Ucak3
+Mevcut Kartlar: [Firkateyn1, Firkateyn2, Ucak2, Obus1, Firkateyn3, Ucak3, Firkateyn4, Ucak3]
+Eklenen Kartli Liste Oyuncu: [Obus1, Obus2, Ucak1, Ucak2, Firkateyn2, Firkateyn3, Firkateyn4, Firkateyn4]
+Eklenen Kartli Liste Bilgisayar: [Firkateyn1, Firkateyn2, Ucak2, Obus1, Firkateyn3, Ucak3, Firkateyn4, Ucak3]
+4. TUR
+Bilgisayarin sectigi kartlar: [Ucak3, Firkateyn2, Obus1]
+Oyuncu seçilen kartlar: [Ucak1, Ucak2, Obus1]
+Oyuncu Karti: Ucak1 -> Vurus Degeri: 10
+Rakip Karti: Ucak3
+Bilgisayar Karti: Ucak3 -> Vurus Degeri: 10
+Rakip Karti: Ucak1
+Oyuncu karti: Ucak1 dayanikliligi guncellendi: 0
+Bilgisayar karti: Ucak3 seviyesine 10 eklendi.
+Bilgisayar karti: Ucak3 dayanikliligi güncellendi: 0
+Oyuncu karti: Ucak1 seviyesine 18 eklendi.
+Bilgisayar skoruna 26 puan eklendi.
+Oyuncu skoruna 18 puan eklendi.
+Oyuncu Karti: Ucak2 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn2
+Bilgisayar Karti: Firkateyn2 -> Vurus Degeri: 15
+Rakip Karti: Ucak2
+Oyuncu karti: Ucak2 dayanikliligi guncellendi: 0
+Bilgisayar karti: Firkateyn2 seviyesine 10 eklendi.
+Bilgisayar karti: Firkateyn2 dayanikliligi güncellendi: 5
+Bilgisayar skoruna 10 puan eklendi.
+Oyuncu Karti: Obus1 -> Vurus Degeri: 10
+Rakip Karti: Obus1
+Bilgisayar Karti: Obus1 -> Vurus Degeri: 10
+Rakip Karti: Obus1
+Oyuncu karti: Obus1 dayanikliligi guncellendi: 10
+Bilgisayar karti: Obus1 dayanikliligi güncellendi: 0
+Oyuncu karti: Obus1 seviyesine 10 eklendi.
+Oyuncu skoruna 10 puan eklendi.
+Oyuncu Kartlar Listesi: [Obus1, Obus2, Firkateyn2, Firkateyn3, Firkateyn4, Firkateyn4]
+Blgisayar Kartlar Listesi: [Firkateyn1, Firkateyn2, Ucak2, Firkateyn3, Firkateyn4, Ucak3]
+Oyuncu Dayaniklilik Listesi: [10, 10, 15, 5, 15, 25]
+Bilgisayar Dayaniklilik Listesi: [15, 5, 5, 10, 15, 20]
+Oyuncu SeviyePuani Listesi: [18, 8, 8, 18, 8, 8]
+Bilgisayar SeviyePuani Listesi: [8, 18, 8, 8, 18, 8]
+Oyuncu Skoru: 38
+Bilgisayar Skoru: 46
+Yeni Kart Üretildi: Siha1
+Mevcut Kartlar: [Obus1, Obus2, Firkateyn2, Firkateyn3, Firkateyn4, Firkateyn4, Siha1]
+Yeni Kart Üretildi: Sida1
+Mevcut Kartlar: [Firkateyn1, Firkateyn2, Ucak2, Firkateyn3, Firkateyn4, Ucak3, Sida1]
+Eklenen Kartli Liste Oyuncu: [Obus1, Obus2, Firkateyn2, Firkateyn3, Firkateyn4, Firkateyn4, Siha1]
+Eklenen Kartli Liste Bilgisayar: [Firkateyn1, Firkateyn2, Ucak2, Firkateyn3, Firkateyn4, Ucak3, Sida1]
+5. TUR
+Bilgisayarin sectigi kartlar: [Sida1, Ucak3, Firkateyn4]
+Oyuncu seçilen kartlar: [Firkateyn2, Firkateyn3, Firkateyn4]
+Oyuncu Karti: Firkateyn2 -> Vurus Degeri: 10
+Rakip Karti: Sida1
+Bilgisayar Karti: Sida1 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn2
+Oyuncu karti: Firkateyn2 dayanikliligi guncellendi: 5
+Bilgisayar karti: Sida1 dayanikliligi güncellendi: 5
+Oyuncu Karti: Firkateyn3 -> Vurus Degeri: 15
+Rakip Karti: Ucak3
+Bilgisayar Karti: Ucak3 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn3
+Oyuncu karti: Firkateyn3 dayanikliligi guncellendi: 0
+Bilgisayar karti: Ucak3 seviyesine 18 eklendi.
+Bilgisayar karti: Ucak3 dayanikliligi güncellendi: 5
+Bilgisayar skoruna 18 puan eklendi.
+Oyuncu Karti: Firkateyn4 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn4
+Bilgisayar Karti: Firkateyn4 -> Vurus Degeri: 10
+Rakip Karti: Firkateyn4
+Oyuncu karti: Firkateyn4 dayanikliligi guncellendi: 5
+Bilgisayar karti: Firkateyn4 dayanikliligi güncellendi: 5
+Oyuncu Kartlar Listesi: [Obus1, Obus2, Firkateyn2, Firkateyn4, Firkateyn4, Siha1]
+Blgisayar Kartlar Listesi: [Firkateyn1, Firkateyn2, Ucak2, Firkateyn3, Firkateyn4, Ucak3, Sida1]
+Oyuncu Dayaniklilik Listesi: [10, 10, 5, 5, 25, 15]
+Bilgisayar Dayaniklilik Listesi: [15, 5, 5, 10, 5, 5, 5]
+Oyuncu SeviyePuani Listesi: [18, 8, 8, 8, 8, 8]
+Bilgisayar SeviyePuani Listesi: [8, 18, 8, 8, 18, 26, 8]
+Oyuncu Skoru: 38
+Bilgisayar Skoru: 64
+-------------BILGISAYAR KAZANDI-------------
+Bilgisayar Puani: 64
